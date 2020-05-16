@@ -10,9 +10,6 @@ I am currently a Masters in Business Analytics Student at Fordham University. If
 **School email: bdinh@fordham.edu**
 
 
-**[Resume](https://drive.google.com/file/d/1BlGbtP68rb3G8hwsVP8xqbZpExtc6DWQ/view?usp=sharing)** | **[LinkedIn](https://www.linkedin.com/in/ngoc-dinh-a7a2a561/)** | **[RPUBS](https://rpubs.com/ngocdinh1410)**
-
-
 ---
 ## ABOUT ME
 ---
@@ -52,7 +49,7 @@ The models are also popularity-based and user-based collaborative filtering. How
 
 
 ---
-## WEB ANALYTICS:
+## WEB ANALYTICS
 ---
 
 
@@ -92,7 +89,7 @@ In this repository, I will go through the process of scraping rotten tomato revi
 
 
 ---
-## STATISICAL ANALYSIS WITH R:
+## STATISICAL ANALYSIS WITH R
 ---
 
 
@@ -156,7 +153,7 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is the nation's premier s
 
 
 ---
-## TEXT ANALYTICS:
+## TEXT ANALYTICS
 ---
 
 
@@ -184,7 +181,7 @@ that relevant tweets carried higher negative sentiment. Analysis processsed thro
 
 
 ---
-## DATABASE/SQL PROJECT:
+## DATABASE/SQL PROJECT
 ---
 
 
@@ -203,7 +200,7 @@ Generated a relational database that fits the 3 normal form requirements and the
 
 
 ---
-## OTHER PROJECTS:
+## OTHER PROJECTS
 ---
 
 
