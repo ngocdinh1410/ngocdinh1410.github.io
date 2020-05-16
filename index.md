@@ -1,5 +1,5 @@
 ## NGOC (JANE) DINH'S PORTFOLIO
-
+---
 
 I am currently a Masters in Business Analytics Student at Fordham University. If you're visiting this page you're welcome to look at my work!
 
@@ -10,17 +10,11 @@ I am currently a Masters in Business Analytics Student at Fordham University. If
 **School email: bdinh@fordham.edu**
 
 
-**[Resume](https://drive.google.com/file/d/1BlGbtP68rb3G8hwsVP8xqbZpExtc6DWQ/view?usp=sharing)**
-
-
-**[LinkedIn](https://www.linkedin.com/in/ngoc-dinh-a7a2a561/)**
-
-
-**[RPUBS](https://rpubs.com/ngocdinh1410)**
+**[Resume](https://drive.google.com/file/d/1BlGbtP68rb3G8hwsVP8xqbZpExtc6DWQ/view?usp=sharing)** | **[LinkedIn](https://www.linkedin.com/in/ngoc-dinh-a7a2a561/)** | **[RPUBS](https://rpubs.com/ngocdinh1410)**
 
 ---
 ## ABOUT ME
-
+---
 *Hi,*
 
 
@@ -51,11 +45,13 @@ I used the data from movielens dataset and created two recommendation system: po
 The models are also popularity-based and user-based collaborative filtering. However, I filtered for songs with individual listen count of more than 1 time. The rationale is that if user only listen to the song once, it suggested that the user might not have liked the song.
 
 
-**-more to be added-**
----
+*-more to be added-*
 
+
+---
 ## WEB ANALYTICS:
 ---
+
 
 ### Web parsing
 
@@ -89,10 +85,12 @@ I could not scrape dynamic website without some help from Selenium. The automati
 
 In this repository, I will go through the process of scraping rotten tomato reviews and analyze those text reviews For this project, we utilized a web parser in order to scrape data from 11 movies from the website Rotten Tomatoes. From there, we used this data to build a classifier which we then evaluated. Lastly, we performed exploratory data analysis on our data. For each of the 11 movies we scraped a total of ten pages of reviews from each movie. From this we gathered information on a total of 2,089 reviews. Our data frame consisted of the following columns: Reviewers' Name, Rating (fresh or rotten), Review and Date.
 
-**-more to be added-**
----
+*-more to be added-*
 
-## Statistical Analysis with R:
+
+---
+## STATISICAL ANALYSIS WITH R:
+---
 
 
 [Linear Regression Project](https://github.com/ngocdinh1410/Linear-Regression-Project) 
@@ -151,10 +149,12 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is the nation's premier s
 <li>Kitchen quality, height of the basement, and quality of material on the exterior are prominent variables that contribute to the difference of sale price.</li>
 
 
-**-more to be added-**
----
+*-more to be added-*
 
+
+---
 ## TEXT ANALYTICS:
+---
 
 
 [Fashion Text Analytics](https://github.com/ngocdinh1410/Fashion-Text-Analytics) 
@@ -177,12 +177,13 @@ with accuracy of over 88%.</li>
 that relevant tweets carried higher negative sentiment. Analysis processsed through NLTK Darth Vader</li>
 
 
-**-more to be added-**
+*-more to be added-*
+
+
 ---
-
-
 ## DATABASE/SQL PROJECT:
 ---
+
 
 [Art Gallery Retional Database](https://github.com/ngocdinh1410/Art-Gallery-Tracking-System)
 
@@ -195,11 +196,13 @@ Generated a relational database that fits the 3 normal form requirements and the
 ![alt text](https://i.imgur.com/cjd3EnK.png)
 
 
-**-more to be added-**
----
+*-more to be added-*
 
+
+---
 ## OTHER PROJECTS:
 ---
+
 
 [Health Awareness SPSS Modeler Project](https://github.com/ngocdinh1410/Health-Awareness-SPSS-Modeler-Project): Analyzing CDC data on behavioral risk with SPSS Modeler with clustering, neural networks and naive bayes.
 
@@ -207,4 +210,4 @@ Generated a relational database that fits the 3 normal form requirements and the
 [IBM Capstone Project - NYC Neighborhood Clustering](https://github.com/ngocdinh1410/IBM-Capstone-Project): I attempted to cluster NYC neighborhood according to crime stats for my last IBM Data Science Project.
 
 
-**-more to be added-**
+*-more to be added-*
