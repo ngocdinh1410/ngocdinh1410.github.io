@@ -4,12 +4,6 @@
 I am currently a Masters in Business Analytics Student at Fordham University. If you're visiting this page you're welcome to look at my work!
 
 
-**Email: ngocdinh1410@gmail.com**
-
-
-**School email: bdinh@fordham.edu**
-
-
 ---
 ## ABOUT ME
 ---
