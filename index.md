@@ -12,9 +12,12 @@ I am currently a Masters in Business Analytics Student at Fordham University. If
 
 **[Resume](https://drive.google.com/file/d/1BlGbtP68rb3G8hwsVP8xqbZpExtc6DWQ/view?usp=sharing)** | **[LinkedIn](https://www.linkedin.com/in/ngoc-dinh-a7a2a561/)** | **[RPUBS](https://rpubs.com/ngocdinh1410)**
 
+
 ---
 ## ABOUT ME
 ---
+
+
 *Hi,*
 
 
