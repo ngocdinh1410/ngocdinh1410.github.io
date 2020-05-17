@@ -30,7 +30,7 @@ I am currently a Masters in Business Analytics Student at Fordham University. If
 I used the data from movielens dataset and created two recommendation system: popularity-based and user-based collaborative filtering. The CF model was done with ALS Pyspark. 
 
 
-[Million song recomemndation system](https://github.com/ngocdinh1410/Million-Song-Recommendation-System)
+[Million song recommendation system](https://github.com/ngocdinh1410/Million-Song-Recommendation-System)
 
 
 [![](https://img.shields.io/badge/Spark-Big%20Data-red)](https://github.com/ngocdinh1410/Million-Song-Recommendation-System)
